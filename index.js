@@ -88,11 +88,11 @@ window.addEventListener('load', () => {
 
   const phrases = [
     'Software Engineer',
-    'Full-Stack Developer',
-    'Cloud Engineer (AZ-104)',
-    'Microservices Architect',
+    'SaaS Product Support Specialist',
+    'Azure & AWS Enthusiast',
+    'Data Engineering Enthusiast',
     'React & Node.js Developer',
-    'Python / FastAPI Developer',
+    'Python Developer',
   ];
 
   let phraseIdx = 0;
